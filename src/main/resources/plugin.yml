@@ -1,0 +1,10 @@
+name: HoverCard
+version: '${project.version}'
+main: me.hrdu_.hovercard.hovercard.HoverCard
+api-version: 1.19
+authors: [ hrdu_, XxSXBxX ]
+description: HoverCard
+website: https://crankhouse.net/
+
+commands:
+  healmedude:
