@@ -1,3 +1,3 @@
 # HoverCard
 hovercard
-Discontinued
+discontinued
